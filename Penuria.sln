@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sandbox", "Sandbox\Sandbox.vcxproj", "{F0333D4A-89C0-44DD-B1C7-114B2163B9FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Penuria", "Penuria\Penuria.vcxproj", "{B12E9CD2-8AD9-4D2E-9EE5-EE4E8B4D4C5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B12E9CD2-8AD9-4D2E-9EE5-EE4E8B4D4C5B}.Debug|x64.ActiveCfg = Debug|x64
+		{B12E9CD2-8AD9-4D2E-9EE5-EE4E8B4D4C5B}.Debug|x64.Build.0 = Debug|x64
+		{B12E9CD2-8AD9-4D2E-9EE5-EE4E8B4D4C5B}.Release|x64.ActiveCfg = Release|x64
+		{B12E9CD2-8AD9-4D2E-9EE5-EE4E8B4D4C5B}.Release|x64.Build.0 = Release|x64
+		{F0333D4A-89C0-44DD-B1C7-114B2163B9FB}.Debug|x64.ActiveCfg = Debug|x64
+		{F0333D4A-89C0-44DD-B1C7-114B2163B9FB}.Debug|x64.Build.0 = Debug|x64
+		{F0333D4A-89C0-44DD-B1C7-114B2163B9FB}.Release|x64.ActiveCfg = Release|x64
+		{F0333D4A-89C0-44DD-B1C7-114B2163B9FB}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {11007F7F-C4FF-44E0-8220-5672D2F042F0}
+	EndGlobalSection
+EndGlobal
